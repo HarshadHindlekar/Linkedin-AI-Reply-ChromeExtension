@@ -2,10 +2,8 @@
 
 
 ## Demo Video :- 
-<video width="600" controls autoplay>
-  <source src="./assets/recording-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video width="630" height="300" src="./assets/recording-demo.mp4"></video>
+
 
 ## steps to follow 
 
