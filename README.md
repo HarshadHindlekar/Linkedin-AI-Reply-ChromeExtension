@@ -2,7 +2,7 @@
 
 
 ## Demo Video :- 
-<video width="630" height="300" src="./assets/recording-demo.mp4"></video>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3PAJP2AVodo/0.jpg)](https://www.youtube.com/watch?v=3PAJP2AVodo)
 
 
 ## steps to follow 
